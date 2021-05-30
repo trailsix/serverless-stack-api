@@ -1,7 +1,0 @@
-endpoints:
-  POST - https://plnyism5e9.execute-api.us-east-1.amazonaws.com/prod/notes
-  GET - https://plnyism5e9.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
-  GET - https://plnyism5e9.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
-  PUT - https://plnyism5e9.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
-  DELETE - https://plnyism5e9.execute-api.us-east-1.amazonaws.com/prod/notes/{id}
-
